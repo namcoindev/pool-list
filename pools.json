@@ -9,4 +9,5 @@
       "miningAddress": "mine.namcoin.org",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
-    }
+  ]
+}
