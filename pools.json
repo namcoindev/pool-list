@@ -1,13 +1,13 @@
-
 {
-  "pools": [
-    {
-      "name": "Nam-Main-Pool",
-      "url": "https://mine.namcoin.org/",
-      "api": "https://mine.namcoin.org:8119/stats",
-      "type": "forknote",
-      "miningAddress": "mine.namcoin.org",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-  ]
+	"pools": [
+{
+		"name": "Nam-Main-Pool",
+		"url": "https://mine.namcoin.org/",
+		"api": "https://mine.namcoin.org:8119/stats",
+		"type": "forknote",
+		"miningAddress": "mine.namcoin.org",
+		"mergedMining": false,
+		"mergedMiningIsParentChain": false
+	}
+]
 }
