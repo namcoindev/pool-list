@@ -13,9 +13,9 @@
 	{
       "name": "Nam Pool Party",
       "url": "http://poolparty.namcoin.org",
-      "api": "http://poolparty.namcoin.org:8117/stats/",
+      "api": "http://poolparty.namcoin.org:8117/stats",
       "type": "forknote",
-      "miningAddress": "poolpart.namcoin.org",
+      "miningAddress": "poolparty.namcoin.org",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
